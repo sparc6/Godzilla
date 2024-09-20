@@ -1,0 +1,7 @@
+# Ignore Blender temporary and backup files
+*.blend1
+*.blend2
+*.blend@
+
+# Ignore Python cache files
+__pycache__/
